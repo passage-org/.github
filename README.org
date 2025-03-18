@@ -1,0 +1,4 @@
+PASSAGE constitutes an effort towards the adoption of SPARQL
+query engines that provide complete and correct results! despite their
+timeout threshold on query execution time that enforce fair use
+policies…
